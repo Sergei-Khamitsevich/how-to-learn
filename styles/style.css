@@ -26,7 +26,6 @@
   position: absolute;
   z-index: 3;
   background-image: url(../images/logo_place_header.svg);
-  z-index: 3;
 }
 
 .logo__place_header {
@@ -344,7 +343,7 @@
 
 .footer__column-links {
   padding: 0;
-  margin-bottom: 16px; 
+  margin-bottom: 16px;
   list-style: none;  
 }
 
