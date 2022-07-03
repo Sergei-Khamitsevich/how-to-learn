@@ -1,0 +1,8 @@
+.two-columns__span-accent{
+  font-weight: bold;
+}
+
+.two-columns__paragraph:last-of-type {
+  padding-bottom: 0px;
+  margin-bottom: 0;
+}
